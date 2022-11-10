@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* 2021.7 - present: Research Engineer @ DAMO Academy, Alibaba Group
+* 2021.7 - present: Algorithm Engineer @ DAMO Academy, Alibaba Group
   * Computer Vision
   * Neural Architecture Search
   * Object Detection
