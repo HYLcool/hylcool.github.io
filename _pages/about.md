@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I'm an Algorithm Engineer in the Tiny Machine Learning (TinyML) team at DAMO Academy, Alibaba Group.
 
-I received my M.E. and B.E. from Peking University, China, in 2018 and 2021 respectively, advised by Prof. [Liangcai Gao](https://www.icst.pku.edu.cn/xztd/xztd_01/1222616.htm).
+I received my M.S. and B.S. from Peking University, China, in 2018 and 2021 respectively, advised by Prof. [Liangcai Gao](https://www.icst.pku.edu.cn/xztd/xztd_01/1222616.htm).
 
 Research Interests
 ======
