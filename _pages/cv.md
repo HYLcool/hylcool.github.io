@@ -19,9 +19,9 @@ Education
 Work experience
 ======
 * 2021.7 - present: Algorithm Engineer @ DAMO Academy, Alibaba Group
-  * Computer Vision
   * Neural Architecture Search
   * Object Detection
+  * Model Quantization
   
 <!-- Skills
 ======

@@ -14,7 +14,7 @@ I received my M.S. and B.S. from Peking University, China, in 2018 and 2021 resp
 
 Research Interests
 ======
-Computer Vison & TinyML & Object Detection & Neural Architecture Search
+Computer Vison & TinyML & Object Detection & Neural Architecture Search & Quantization
 
 Publications
 ======
@@ -22,7 +22,11 @@ See details in [Publications page](/publications)
 
 Projects
 ======
+* DAMO-YOLO:
+  * A fast, accurate, and efficient object detection framework, which outperforms all previous YOLO series.
+  * MAE-NAS + Efficient RepGFPN + Heavy-Neck & Zero-Head + Distillation
+  * [GitHub](https://github.com/tinyvision/DAMO-YOLO); [Paper](https://arxiv.org/abs/2211.15444)
 * AIEarth:
-  * Official website: [http://engine-aiearth.aliyun.com/](http://engine-aiearth.aliyun.com/)
   * A cloud platform for Earth Science
   * With the capability of Artificial Intelligence, Big Data and Cloud Computing from DAMO Academy and Alibaba Cloud
+  * Official website: [http://engine-aiearth.aliyun.com/](http://engine-aiearth.aliyun.com/)
