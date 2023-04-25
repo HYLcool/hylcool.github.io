@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science & Technology, Peking University, 2018
 * M.S. in Computer Applied Technology, Peking University, 2021
   * Document Analysis
   * Table Detection & Recognition
+* B.S. in Computer Science & Technology, Peking University, 2018
 
 Work experience
 ======
