@@ -38,3 +38,8 @@ Projects
   * A cloud platform for **Earth Science**
   * With the capability of Artificial Intelligence, Big Data and Cloud Computing from DAMO Academy and Alibaba Cloud
   * Official website: [http://engine-aiearth.aliyun.com/](http://engine-aiearth.aliyun.com/)
+
+<br/>
+<br/>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=tt&d=gyn9ufo4r9wSYgp5M1ncvmt23stuwHNbdVuZA-7UOZU'></script>
