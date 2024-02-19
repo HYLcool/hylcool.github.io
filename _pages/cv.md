@@ -18,9 +18,10 @@ Education
 
 Work experience
 ======
-* 2021.7 - present: Algorithm Engineer @ DAMO Academy, Alibaba Group
-  * Neural Architecture Search
-  * Object Detection
+* 2021.7 - present: Algorithm Engineer @ Alibaba Group
+  * Model inference optimization in AI Earth team
+  * Neural Architecture Search, Object Detection, Quantization in TinyML team
+  * Data-Centric LLMs, Multimodal LLMs in SysML team
   
 <!-- Skills
 ======
