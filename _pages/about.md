@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm an Algorithm Engineer in the SysML team at DAMO Academy, Alibaba Group.
+Hi, I'm an Algorithm Engineer in the SysML team of Alibaba Group.
 
 I received my M.S. and B.S. from Peking University, China, in 2018 and 2021 respectively, advised by Prof. [Liangcai Gao](https://www.icst.pku.edu.cn/xztd/xztd_01/1222616.htm).
 
