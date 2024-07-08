@@ -22,10 +22,10 @@ See details in [Publications page](/publications)
 
 Projects
 ======
-* Data-Juicer ![](https://img.shields.io/github/stars/alibaba/data-juicer)
+* Data-Juicer ![](https://img.shields.io/github/stars/modelscope/data-juicer)
   * A **one-stop** data processing system to make data higher-quality, juicier, and more digestible **for LLMs**.
-  * 50+ core operators; 20+ data processing recipes; High flexibility & extensibility
-  * [Github](https://github.com/alibaba/data-juicer); [Paper](https://arxiv.org/abs/2309.02033)
+  * 100+ core operators; 20+ data processing recipes; High flexibility & extensibility
+  * [Github](https://github.com/modelscope/data-juicer); [Paper](https://arxiv.org/abs/2309.02033)
 * DAMO-YOLO ![](https://img.shields.io/github/stars/tinyvision/DAMO-YOLO)
   * A fast, accurate, and efficient **object detection** framework, which outperforms all previous YOLO series.
   * MAE-NAS + Efficient RepGFPN + Heavy-Neck & Zero-Head + Distillation
