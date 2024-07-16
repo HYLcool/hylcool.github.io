@@ -14,4 +14,4 @@ code: 'https://github.com/modelscope/data-juicer/blob/main/docs/awesome_llm_data
 - Download paper [here](https://arxiv.org/abs/2407.08583)
 - Awesome Data-Model Co-Development of MLLMs associated with this survey is accessible [here](https://github.com/modelscope/data-juicer/blob/main/docs/awesome_llm_data.md)
 
-![Taxonomy for MLLMs from data-model co-development perspective](https://img.alicdn.com/imgextra/i4/O1CN01uvLL0T1VIaX28dMLg_!!6000000002630-2-tps-2509-1192.png)
+![Taxonomy for MLLMs from data-model co-development perspective](https://camo.githubusercontent.com/cf39066e9c577d7e8e53f71ff102d61f1c9b831b2ba876b5acfc22be70187620/68747470733a2f2f696d672e616c6963646e2e636f6d2f696d6765787472612f69312f4f31434e3031614e3354566f316d67475a417553484a345f2121363030303030303030343938332d322d7470732d333235352d313332372e706e67)
