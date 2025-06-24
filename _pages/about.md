@@ -22,6 +22,10 @@ See details in [Publications page](/publications)
 
 Projects
 ======
+* Trinity-RFT ![](https://img.shields.io/github/stars/modelscope/Trinity-RFT)
+  * A general-purpose, flexible, scalable and user-friendly framework designed for reinforcement fine-tuning (RFT) of large language models (LLM).
+  * RFT-core; Agent-environment interaction; Data processing pipeliens.
+  * [Github](https://github.com/modelscope/Trinity-RFT); [Paper](https://arxiv.org/abs/2505.17826)
 * Data-Juicer ![](https://img.shields.io/github/stars/modelscope/data-juicer)
   * A **one-stop** data processing system to make data higher-quality, juicier, and more digestible **for LLMs**.
   * 100+ core operators; 20+ data processing recipes; High flexibility & extensibility
