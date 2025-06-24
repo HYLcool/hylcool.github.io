@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-09-05-data-juicer
 date: 2023-09-05
 venue: 'Companion of the 2024 International Conference on Management of Data'
-citation: 'Chen, Daoyuan, <ins>Yilun Huang</ins>, Zhijian Ma, Hesen Chen, Xuchen Pan, Ce Ge, Dawei Gao et al. "Data-juicer: A one-stop data processing system for large language models." In Companion of the 2024 International Conference on Management of Data, pp. 120-134. 2024.'
+citation: 'Chen, Daoyuan*, <ins>Yilun Huang*</ins>, Zhijian Ma*, Hesen Chen*, Xuchen Pan, Ce Ge, Dawei Gao et al. "Data-juicer: A one-stop data processing system for large language models." In Companion of the 2024 International Conference on Management of Data, pp. 120-134. 2024.'
 paperurl: 'https://arxiv.org/abs/2309.02033'
 code: 'https://github.com/modelscope/data-juicer'
 ---

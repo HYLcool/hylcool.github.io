@@ -3,8 +3,8 @@ title: "Data-Juicer Sandbox: A Comprehensive Suite for Multimodal Data-Model Co-
 collection: publications
 permalink: /publication/2024-07-16-data-juicer-sandbox
 date: 2024-07-16
-venue: 'arXiv'
-citation: 'Chen, Daoyuan, Haibin Wang, <ins>Yilun Huang</ins>, Ce Ge, Yaliang Li, Bolin Ding, and Jingren Zhou. "Data-Juicer Sandbox: A Comprehensive Suite for Multimodal Data-Model Co-development." arXiv preprint arXiv:2407.11784 (2024).'
+venue: 'ICML 2025'
+citation: 'Chen, Daoyuan*, Haibin Wang*, <ins>Yilun Huang*</ins>, Ce Ge, Yaliang Li, Bolin Ding, and Jingren Zhou. "Data-Juicer Sandbox: A Comprehensive Suite for Multimodal Data-Model Co-development." ICML 2025 Spotlight.'
 paperurl: 'https://arxiv.org/abs/2407.11784'
 code: 'https://github.com/modelscope/data-juicer/blob/main/docs/Sandbox.md'
 ---
