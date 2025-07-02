@@ -3,8 +3,8 @@ title: "The Synergy between Data and Multi-Modal Large Language Models: A Survey
 collection: publications
 permalink: /publication/2024-07-11-data-model-co-development-survey
 date: 2024-07-11
-venue: 'TPAMI'
-citation: 'Qin, Zhen, Daoyuan Chen, Wenhao Zhang, Liuyi Yao, <ins>Yilun Huang</ins>, Bolin Ding, Yaliang Li, and Shuiguang Deng. "The Synergy between Data and Multi-Modal Large Language Models: A Survey from Co-Development Perspective." TPAMI.'
+venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence (2025)'
+citation: 'Qin, Zhen, Daoyuan Chen, Wenhao Zhang, Liuyi Yao, <ins>Yilun Huang</ins>, Bolin Ding, Yaliang Li, and Shuiguang Deng. "The synergy between data and multi-modal large language models: A survey from co-development perspective." IEEE Transactions on Pattern Analysis and Machine Intelligence (2025).'
 paperurl: 'https://arxiv.org/abs/2407.08583'
 code: 'https://github.com/modelscope/data-juicer/blob/main/docs/awesome_llm_data.md'
 ---
