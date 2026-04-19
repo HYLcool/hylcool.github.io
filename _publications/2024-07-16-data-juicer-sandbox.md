@@ -3,8 +3,8 @@ title: "Data-Juicer Sandbox: A Comprehensive Suite for Multimodal Data-Model Co-
 collection: publications
 permalink: /publication/2024-07-16-data-juicer-sandbox
 date: 2024-07-16
-venue: 'Forty-second International Conference on Machine Learning. 2025. Spotlight.'
-citation: 'Chen, Daoyuan*, Haibin Wang*, <ins>Yilun Huang*</ins>, Ce Ge, Yaliang Li, Bolin Ding, and Jingren Zhou. "Data-juicer sandbox: A feedback-driven suite for multimodal data-model co-development." In Forty-second International Conference on Machine Learning. 2025. Spotlight.'
+venue: 'Forty-second International Conference on Machine Learning. 2025. <b>Spotlight</b>.'
+citation: 'Chen, Daoyuan*, Haibin Wang*, <ins>Yilun Huang*</ins>, Ce Ge, Yaliang Li, Bolin Ding, and Jingren Zhou. "Data-juicer sandbox: A feedback-driven suite for multimodal data-model co-development." In Forty-second International Conference on Machine Learning. 2025. <b>Spotlight</b>.'
 paperurl: 'https://arxiv.org/abs/2407.11784'
 code: 'https://github.com/modelscope/data-juicer/blob/main/docs/Sandbox.md'
 ---

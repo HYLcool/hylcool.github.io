@@ -14,7 +14,7 @@ I received my M.S. and B.S. from Peking University, China, in 2018 and 2021 resp
 
 Research Interests
 ======
-Machine Learning; Computer Vison
+Machine Learning; Computer Vision
 
 Publications
 ======
