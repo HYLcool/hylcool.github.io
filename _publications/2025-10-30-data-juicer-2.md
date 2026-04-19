@@ -1,7 +1,7 @@
 ---
 title: "Data-Juicer 2.0: Cloud-Scale Adaptive Data Processing for and with Foundation Models"
 collection: publications
-permalink: /publication/2025-10-30-data-juicer-2.0
+permalink: /publication/2025-10-30-data-juicer-2
 date: 2025-10-30
 venue: 'The Thirty-ninth Annual Conference on Neural Information Processing Systems. 2025. <b>Spotlight</b>.'
 citation: 'Chen, Daoyuan*, <ins>Yilun Huang*</ins>, Xuchen Pan, Nana Jiang, Haibin Wang, Ce Ge, Yushuo Chen et al. "Data-Juicer 2.0: Cloud-Scale Adaptive Data Processing for and with Foundation Models." In The Thirty-ninth Annual Conference on Neural Information Processing Systems. 2025. <b>Spotlight</b>.'
